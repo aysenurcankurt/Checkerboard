@@ -1,0 +1,10 @@
+C:\Users\bekil\OneDrive\Desktop\PROJELER\CheckerBoard\bin\Debug\CheckerBoard.exe.config
+C:\Users\bekil\OneDrive\Desktop\PROJELER\CheckerBoard\bin\Debug\CheckerBoard.exe
+C:\Users\bekil\OneDrive\Desktop\PROJELER\CheckerBoard\bin\Debug\CheckerBoard.pdb
+C:\Users\bekil\OneDrive\Desktop\PROJELER\CheckerBoard\obj\Debug\CheckerBoard.csprojAssemblyReference.cache
+C:\Users\bekil\OneDrive\Desktop\PROJELER\CheckerBoard\obj\Debug\CheckerBoard.Form1.resources
+C:\Users\bekil\OneDrive\Desktop\PROJELER\CheckerBoard\obj\Debug\CheckerBoard.Properties.Resources.resources
+C:\Users\bekil\OneDrive\Desktop\PROJELER\CheckerBoard\obj\Debug\CheckerBoard.csproj.GenerateResource.cache
+C:\Users\bekil\OneDrive\Desktop\PROJELER\CheckerBoard\obj\Debug\CheckerBoard.csproj.CoreCompileInputs.cache
+C:\Users\bekil\OneDrive\Desktop\PROJELER\CheckerBoard\obj\Debug\CheckerBoard.exe
+C:\Users\bekil\OneDrive\Desktop\PROJELER\CheckerBoard\obj\Debug\CheckerBoard.pdb
